@@ -1,0 +1,7 @@
+name: regeneracja
+main: gamerek.regeneracja.Main
+version: 2.0 PRO
+author: Gamer!
+
+commands:
+  regeneruj:
